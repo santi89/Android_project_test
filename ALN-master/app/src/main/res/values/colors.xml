@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="backgroudmanage">#A93226</color>
+    <color name="fontcolor">#AF601A</color>
+    <color name="saperatorColor">#27AE60</color>
+    <color name="backgroudImport">#4A235A </color>
+    <color name="backgroudSale">#D4AC0D</color>
+
+</resources>

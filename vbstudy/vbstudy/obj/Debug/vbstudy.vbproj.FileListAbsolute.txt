@@ -1,0 +1,12 @@
+E:\Project\vbstudy\vbstudy\bin\Debug\vbstudy.exe.config
+E:\Project\vbstudy\vbstudy\bin\Debug\vbstudy.exe
+E:\Project\vbstudy\vbstudy\bin\Debug\vbstudy.pdb
+E:\Project\vbstudy\vbstudy\bin\Debug\vbstudy.xml
+E:\Project\vbstudy\vbstudy\obj\Debug\vbstudy.Form1.resources
+E:\Project\vbstudy\vbstudy\obj\Debug\vbstudy.Resources.resources
+E:\Project\vbstudy\vbstudy\obj\Debug\vbstudy.vbproj.GenerateResource.Cache
+E:\Project\vbstudy\vbstudy\obj\Debug\vbstudy.exe
+E:\Project\vbstudy\vbstudy\obj\Debug\vbstudy.xml
+E:\Project\vbstudy\vbstudy\obj\Debug\vbstudy.pdb
+E:\Project\vbstudy\vbstudy\obj\Debug\vbstudy.Form2.resources
+E:\Project\vbstudy\vbstudy\obj\Debug\vbstudy.vbprojResolveAssemblyReference.cache

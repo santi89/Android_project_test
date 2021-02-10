@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:id="@+id/menu_ice"
+    android:title="Ice"
+    android:icon="@drawable/icon_ice">
+
+</item>
+    <item
+        android:id="@+id/menu_manage"
+        android:icon="@drawable/ic_import"
+        android:title="Manage">
+
+    </item>
+    <item
+        android:id="@+id/menu_register"
+        android:icon="@drawable/ic_sale"
+        android:title="register">
+
+    </item>
+</menu>

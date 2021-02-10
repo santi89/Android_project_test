@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:gravity="center_vertical"
+    android:layout_gravity="center"
+
+
+    android:background="@drawable/bg_color"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+   <LinearLayout
+
+       android:layout_margin="29dp"
+       android:orientation="vertical"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content">
+       <EditText
+           android:textSize="28dp"
+           android:id="@+id/txtid"
+           android:paddingStart="28dp"
+           android:paddingEnd="18dp"
+           android:hint="Enter ID"
+           android:background="@drawable/bg_edittext"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"/>
+       <EditText
+           android:layout_marginTop="10dp"
+           android:textSize="28dp"
+           android:id="@+id/txtname"
+           android:paddingStart="28dp"
+           android:paddingEnd="18dp"
+           android:hint="Enter Name"
+           android:background="@drawable/bg_edittext"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"/>
+       <EditText
+           android:layout_marginTop="10dp"
+           android:textSize="28dp"
+           android:id="@+id/txtsurname"
+           android:paddingStart="28dp"
+           android:paddingEnd="18dp"
+           android:hint="Enter Surname"
+           android:background="@drawable/bg_edittext"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"/>
+       <EditText
+           android:layout_marginTop="10dp"
+           android:textSize="28dp"
+           android:id="@+id/txtsalary"
+           android:paddingStart="28dp"
+           android:paddingEnd="18dp"
+           android:hint="Enter salary"
+           android:background="@drawable/bg_edittext"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"/>
+       <EditText
+           android:layout_marginTop="10dp"
+           android:textSize="28dp"
+           android:id="@+id/txtemail"
+           android:paddingStart="28dp"
+           android:paddingEnd="18dp"
+           android:hint="Enter Email"
+           android:background="@drawable/bg_edittext"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"/>
+
+   </LinearLayout>
+<LinearLayout
+    android:layout_margin="15dp"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <Button
+
+        android:layout_marginEnd="10dp"
+        android:layout_weight="1"
+        android:background="@drawable/bg_button"
+        android:text="OK"
+        android:id="@+id/btnok"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    <Button
+        android:layout_marginStart="10dp"
+        android:layout_weight="1"
+        android:background="@drawable/bg_button"
+        android:text="Cancel"
+        android:id="@+id/btncancel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+</LinearLayout>
+</LinearLayout>
